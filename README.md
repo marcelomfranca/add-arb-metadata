@@ -6,8 +6,7 @@ Welcome to **Add ARB Metadata**, the ultimate tool for developers working with l
 ## ✨ Features
 
 - **Automatic Metadata Addition**: Instantly add empty metadata to your `.arb` files, enhancing their structure and making localization smoother.
-  
-  ![Add Metadata in Action](images/feature-add-metadata.png)
+
   
 - **User-Friendly Interface**: Easily configure the directory where your `.arb` files are located directly from the VS Code settings.
   
